@@ -1,7 +1,4 @@
-d = int(input("How many numbers do you want to use?")
-e = 1
-a = float(input("Enter a number "))
-if d >         
+a = float(input("Enter a number "))        
 b = float(input("Enter another number "))
 print("what do you want to do with these numbers?")
 c = int(input("add = 1, subtract = 2, multiply = 3, divide = 4, To the power of = 5 "))
